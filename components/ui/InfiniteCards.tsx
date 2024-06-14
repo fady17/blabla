@@ -1,3 +1,4 @@
+'use client';
 import { cn } from '@/lib/utils';
 import React, { useEffect, useState, useCallback } from 'react'; // Import useCallback
 import Image from 'next/image'; // Import Image component from next/image
