@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: '/git.svg',
+    url: 'https://crcltickets.com/',
   },
   {
     id: 2,
     img: '/twit.svg',
+    url: 'https://crcltickets.com/',
   },
   {
     id: 3,
     img: '/link.svg',
+    url: 'https://crcltickets.com/',
   },
 ];
